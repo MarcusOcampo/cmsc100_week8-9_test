@@ -1,6 +1,11 @@
+import React from 'react';
+import TempConverter from './TempConverter';
+
 function App() {
   return (
-    <div></div>
+    <div>
+      <TempConverter />
+    </div>
   );
 }
 
